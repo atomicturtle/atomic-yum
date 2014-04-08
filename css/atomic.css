@@ -1,0 +1,18 @@
+*       {
+        font-family:Verdana;
+        font-size:12pt;
+}
+
+.div_hdr {
+        font-family:Verdana;
+        color:#ffffff;
+        padding-left:10px;
+        line-height:20px;
+}
+
+/* a.hover:hover img { visible: hidden; } */
+a.topnavlink1:hover { background: url("/yum/images/btn_blue.png") no-repeat; } 
+a.topnavlink1 { 
+  background: url("/yum/images/btn_off.png") no-repeat; 
+  width:20px;
+}
